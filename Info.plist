@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>com.anthony.undertone</string>
+    <key>CFBundleName</key>
+    <string>Undertone</string>
+    <key>CFBundleDisplayName</key>
+    <string>Undertone</string>
+    <key>CFBundleExecutable</key>
+    <string>Undertone</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>재생 중인 곡의 앨범 커버 색을 가져와서 Lumn 조명과 배경 색을 맞추기 위해 사용해요.</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+</dict>
+</plist>
